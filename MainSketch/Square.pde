@@ -8,8 +8,8 @@ class Square {
     x = _x;
     y = _y;
     size = _size;
-    spX = int(random(10, 100));
-    spY = int(random(10, 100));
+    spX = int(random(1, 2));
+    spY = int(random(1, 2));
     r = int(random(0, 255));
     g = int(random(0, 255));
     b = int(random(0, 255));
@@ -21,10 +21,15 @@ class Square {
   }
 
   void draw() {
+    pushStyle();
+    fill(r, g, b);
     rect(x, y, size,size);
+    popStyle();
   }
   
-  void color(){
-    fill(r, g, b);
+  void changeColor(){
+    r = int(random(0, 255));
+    g = int(random(0, 255));
+    b = int(random(0, 255));
   }
 }

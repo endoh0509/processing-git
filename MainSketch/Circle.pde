@@ -21,4 +21,3 @@ class Circle {
     ellipse(x, y, d, d);
   }
 }
-
