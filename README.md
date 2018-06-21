@@ -18,13 +18,13 @@ Processingを使ったGit勉強会
 11. 上記の作業を参考にそれぞれのクラスを作成
 
 
-[git](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.001.png)
-[clone](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.002.png)
-[edit](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.003.png)
-[add](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.004.png)
-[commit](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.005.png)
-[push](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.006.png)
-[pull](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.007.png)
+![git](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.001.png)
+![clone](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.002.png)
+![edit](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.003.png)
+![add](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.004.png)
+![commit](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.005.png)
+![push](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.006.png)
+![pull](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.007.png)
 
 ## clone
 
