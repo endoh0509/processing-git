@@ -20,6 +20,9 @@ Processingを使ったGit勉強会
 
 ## clone
 
+リモートリポジトリをダウンロードして  
+ローカルリポジトリを作成
+
 ```bash
 git clone https://github.com/endoh0509/processing-git.git
 cd processing-git
@@ -28,6 +31,8 @@ cd processing-git
 ![clone](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.002.png)
 
 ## ファイル編集
+
+ローカルリポジトリのファイルを編集
 
 ```bash
 git status
@@ -48,6 +53,8 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 ## add
 
+編集済みファイルをステージングに上げる
+
 ```bash
 git add --all
 git status
@@ -65,6 +72,9 @@ git status
 
 ## commit
 
+ステージングのファイルをコミットして  
+編集単位でまとめる
+
 ```bash
 git commit -m '円を描く'
 git status
@@ -75,6 +85,9 @@ git push
 
 ## push
 
+ローカルリポジトリのコミットを  
+リモートリポジトリにアップロード
+
 ```bash
 git push
 ```
@@ -82,6 +95,9 @@ git push
 ![push](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.006.png)
 
 ## pull
+
+ローカルリポジトリに上がっている編集結果を  
+ローカルリポジトリのにダウンロード
 
 ```bash
 git pull
