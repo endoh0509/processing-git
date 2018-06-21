@@ -46,8 +46,8 @@ git status
 >   (use "git checkout -- <file>..." to discard changes in working directory)
 >
 > 	modified:   MainSketch/MainSketch.pde
-
-no changes added to commit (use "git add" and/or "git commit -a")
+> 
+> no changes added to commit (use "git add" and/or "git commit -a")
 
 ![edit](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.003.png)
 
