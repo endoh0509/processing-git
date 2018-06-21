@@ -19,12 +19,6 @@ Processingを使ったGit勉強会
 
 
 ![git](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.001.png)
-![clone](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.002.png)
-![edit](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.003.png)
-![add](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.004.png)
-![commit](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.005.png)
-![push](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.006.png)
-![pull](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.007.png)
 
 ## clone
 
@@ -33,7 +27,9 @@ git clone https://github.com/endoh0509/processing-git.git
 cd processing-git
 ```
 
-## 編集後
+![clone](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.002.png)
+
+## ファイル編集
 
 ```bash
 git status
@@ -50,6 +46,8 @@ git status
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
+![edit](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.003.png)
+
 ## add
 
 ```bash
@@ -65,6 +63,8 @@ git status
 >
 > 	modified:   MainSketch/MainSketch.pde
 
+![add](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.004.png)
+
 ## commit
 
 ```bash
@@ -72,11 +72,24 @@ git commit -m '円を描く'
 git status
 git push
 ```
+
+![commit](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.005.png)
+
+## push
+
+```bash
+git push
+```
+
+![push](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.006.png)
+
 ## pull
 
 ```bash
 git pull
 ```
+
+![pull](https://raw.githubusercontent.com/endoh0509/processing-git/master/img/git-study.007.png)
 
 # 参考
 
